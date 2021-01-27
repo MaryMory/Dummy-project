@@ -1,2 +1,2 @@
-# Dummy-project
-It´s for homework
+# EXAM PROJECT
+This project is for exam purposes.
