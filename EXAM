@@ -1,0 +1,9 @@
+a = int(input("Escribe cuantos números quieres de la sucesión Fibonacci."))
+
+def fib(n):
+	a, b = 0,1
+	while a<n:
+		print(a,end="")
+		a,b = b, a+b
+	print()
+fib(a)
